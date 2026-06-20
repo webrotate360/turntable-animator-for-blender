@@ -1,0 +1,12 @@
+﻿<settings>
+  <projectName></projectName>
+  <projectConfig></projectConfig>
+  <publishing>
+    <viewName></viewName>
+    <skinType>4</skinType>
+    <viewerWidth>800</viewerWidth>
+    <viewerHeight>800</viewerHeight>
+	<viewerBackColor>-1</viewerBackColor>
+	<projectFileMonitor>true</projectFileMonitor>
+  </publishing>
+</settings>
