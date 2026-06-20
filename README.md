@@ -117,7 +117,9 @@ Target options in the panel:
 
 ### Hosting & sharing
 
-Published 360° assets can be hosted on **[PixRiot](https://www.webrotate360.com/services/pixriot.aspx)**, a dedicated CDN platform for 360 product media. Drag and drop your published folder to get a shareable link or embed code, organize assets in (optionally password-protected) folders, use your own domain, and view usage analytics. A free account includes up to 500 MB of storage and 2 GB of monthly traffic.
+Published 360° assets can be hosted on **[PixRiot](https://www.webrotate360.com/services/pixriot.aspx)**, a dedicated CDN platform for 360 product media. Simply drag and drop the folder you'll find under `published/360_assets/` to get a shareable link or embed code.
+
+> Note: an upcoming PixRiot release will include an editor that can create interactive spins directly from uploaded images.
 
 ---
 
@@ -157,9 +159,9 @@ All hotspots can be styled and extended further in [WebRotate 360 SpotEditor](ht
 
 ## Support
 
-- **Product page & user guide:** [https://www.webrotate360.com/products/cms-and-e-commerce-plugins/plugin-for-blender.aspx](https://www.webrotate360.com/products/cms-and-e-commerce-plugins/plugin-for-blender.aspx)
+- **Product page & user guide:** [Turntable Animator for Blender](https://www.webrotate360.com/products/cms-and-e-commerce-plugins/plugin-for-blender.aspx)
 - **Email:** [support@webrotate360.com](mailto:support@webrotate360.com)
-- **Forum:** [https://www.webrotate360.com/support/forum.aspx](https://www.webrotate360.com/support/forum.aspx)
+- **Forum:** [WebRotate 360 Support Forum](https://www.webrotate360.com/support/forum.aspx)
 
 ---
 
