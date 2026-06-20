@@ -26,9 +26,9 @@ It integrates directly into Blender's **Scene Properties** and uses the 3D Viewp
 - Create **polygonal hotspots** from vertex groups or meshes (2D and 3D surfaces).
 - Integrated camera and crop-region controls for fast framing adjustments.
 - **Fast Render** option for quick draft previews before committing to a full render.
-- Multiple build targets: a plain image sequence, a SpotEditor project, or a web-ready interactive 360° asset.
+- Multiple build targets: a plain image sequence, a [SpotEditor](https://www.webrotate360.com/products/webrotate-360-product-viewer.aspx) project, or a web-ready interactive 360° asset.
 - Works with the free **QuickView** app (Windows) for instant offline previews.
-- Published 360° assets are ready to upload to [PixRiot](https://www.webrotate360.com/services/pixriot.aspx) for fast CDN hosting, sharing, and analytics, and can be integrated via [CMS plugins](https://www.webrotate360.com/products/cms-and-e-commerce-plugins.aspx) or the [ImageRotator API](https://github.com/webrotate360/imagerotator).
+- Published 360° assets are ready to upload to [PixRiot](https://www.webrotate360.com/services/pixriot.aspx) for fast CDN hosting, sharing, and analytics, and can be integrated via [CMS plugins](https://www.webrotate360.com/products/cms-and-e-commerce-plugins.aspx) or the [ImageRotator API](https://webrotate360.s3.amazonaws.com/sites/webrotate360/downloads/Resources/IntegrationTemplates.zip) ([npm component](https://github.com/webrotate360/imagerotator)).
 
 ---
 
@@ -104,7 +104,7 @@ For a draft pass, check **Use Fast Render** and choose **"Publish view and open 
 You can output any of the following:
 
 - **Image sequence**: a set of standalone PNG or JPG images (e.g. for marketplaces like Amazon, marketing decks, or import into SpotEditor).
-- **Interactive 360° view**: web-ready viewer you can upload to your site, integrate via free [CMS plugins](https://www.webrotate360.com/products/cms-and-e-commerce-plugins.aspx) (WordPress, Adobe Commerce, etc.) or the [ImageRotator API](https://github.com/webrotate360/imagerotator), view offline in QuickView, or host on [PixRiot](https://www.webrotate360.com/services/pixriot.aspx).
+- **Interactive 360° view**: web-ready viewer you can upload to your site, integrate via free [CMS plugins](https://www.webrotate360.com/products/cms-and-e-commerce-plugins.aspx) (WordPress, Adobe Commerce, etc.) or the [ImageRotator API](https://webrotate360.s3.amazonaws.com/sites/webrotate360/downloads/Resources/IntegrationTemplates.zip) ([npm component](https://github.com/webrotate360/imagerotator)), view offline in QuickView, or host on [PixRiot](https://www.webrotate360.com/services/pixriot.aspx).
 - **SpotEditor project**: `.wr360` project for advanced editing and publishing in SpotEditor.
 
 Target options in the panel:
